@@ -1,0 +1,7 @@
+{
+  "name": "Golf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
